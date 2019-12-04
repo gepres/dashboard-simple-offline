@@ -5,8 +5,8 @@ El servidor se esta trabajando con node y mongodb .
 
 * [link del sistema](https://dash-simple.web.app/)
 * [link del sistema opcional](https://dash-simple.firebaseapp.com/)
-* solo esta funcionado con los datos de *empresa*
-* Si no le funciona correctamente, haga un *clear storage* y recarge la pagina.
+* solo esta funcionando con los datos de *empresa*
+* Si no le funciona correctamente, haga un *clear storage* y recargue la pagina.
 
 
 ### Para cualquier duda mi facebook personal y correo
