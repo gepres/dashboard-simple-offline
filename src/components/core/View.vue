@@ -57,7 +57,13 @@ export default {
           // no tenemos conexion
           console.log('offline');
           this.modeNavigator =  true
+          window.addEventListener('online', this.modeReload)
       }
+    },
+    modeReload(){
+     setTimeout(() => {
+        window.location.reload()
+     }, 1500);
     }
   }
 }
